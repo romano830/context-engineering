@@ -1,0 +1,9 @@
+"""Context Engineering: Build Consistent, Accurate, Predictable"""
+
+
+def main() -> None:
+    print("ok")
+
+
+if __name__ == "__main__":
+    main()
