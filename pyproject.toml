@@ -5,3 +5,4 @@ description = "Context Engineering: Build Consistent, Accurate, Predictable AI S
 requires-python = ">=3.10"
 # drop an unused branch
 # guard against empty input
+# match the style used in the rest of the module
